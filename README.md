@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Cesar MH for you
 
 <!--
 **cesar237/cesar237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 I am interested in software engineering, artificial intelligence and new technologies like blockchain.
 🌱 I’m currently learning Web Assembly, Rust, and stuffs related to blockchain, AI and Cyber security.
+
+-----
+  > Better to don't know than to be sure that something that is wrong, is right!
