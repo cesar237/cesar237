@@ -19,4 +19,4 @@ I am interested in software engineering, artificial intelligence and new technol
 🌱 I’m currently learning Web Assembly, Rust, and stuffs related to blockchain, AI and Cyber security.
 
 -----
-  > Better to don't know than to be sure that something that is wrong, is right!
+  > It is always better to admit that you don't know than to say that you are sure that something that is false is right.
